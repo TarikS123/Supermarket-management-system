@@ -1,0 +1,14 @@
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\bin\Debug\net6.0\Supermarket MS.exe
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\bin\Debug\net6.0\Supermarket MS.deps.json
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\bin\Debug\net6.0\Supermarket MS.runtimeconfig.json
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\bin\Debug\net6.0\Supermarket MS.dll
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\bin\Debug\net6.0\Supermarket MS.pdb
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.AssemblyInfoInputs.cache
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.AssemblyInfo.cs
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.csproj.CoreCompileInputs.cache
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.dll
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\refint\Supermarket MS.dll
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.pdb
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\Supermarket MS.genruntimeconfig.cache
+C:\Users\TARIK\Desktop\za Izbrisati\Supermarket MS\Supermarket MS\obj\Debug\net6.0\ref\Supermarket MS.dll

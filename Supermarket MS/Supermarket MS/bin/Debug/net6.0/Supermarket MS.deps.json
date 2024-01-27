@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Supermarket MS/1.0.0": {
+        "runtime": {
+          "Supermarket MS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Supermarket MS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
